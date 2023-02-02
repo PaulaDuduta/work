@@ -1,1 +1,73 @@
-test
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Test this project with a long name right now not later how long can the name be actually it seems th\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. {
+#.     "description": "Please don't change the name of the application",
+#.     "type": "text"
+#. }
+#: 
+msgid "appName"
+msgstr "TODO List"
+
+#: 
+msgid "loginText"
+msgstr "Enter your credentials below to login"
+
+#: 
+msgid "loginMessageSuccess"
+msgstr "Login successful!\n"
+"Welcome back %s!"
+
+#: 
+msgid "loginMessageError"
+msgstr "Make sure you've entered the correct username and password"
+
+#: 
+msgid "loginPasswordForget"
+msgstr "I forgot my password"
+
+#: 
+msgid "loginPasswordReset"
+msgstr "Enter your address in the field below. A new password will be sent to your inbox."
+
+#: 
+msgid "registerText"
+msgstr "Sign up for free! No credit card required!"
+
+#: 
+msgid "registerMessageSuccess"
+msgstr "Thank you for signing up !\n"
+"Please check your email address to activate your account."
+
+#: 
+msgid "registerMessageError"
+msgstr "We were unable to sign you up.\n"
+"Please correct the marked fields."
+
+#: 
+msgid "menuTerms"
+msgstr "Terms and conditions"
+
+#. {
+#.     "description": "This is displayed in My Account page",
+#.     "type": "text",
+#.     "placeholders": {
+#.         "count": {
+#.             "description": "number of users online",
+#.             "example": "26"
+#.         }
+#.     }
+#. }
+#: 
+msgid "onlineUsers"
+msgid_plural "onlineUsers"
+msgstr[0] "Just {count} user online."
+msgstr[1] "There are {count} users online."
+
